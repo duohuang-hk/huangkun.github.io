@@ -1,0 +1,14 @@
+{
+  "remaining_pct": 16,
+  "used_pct": 84,
+  "plan": "free",
+  "has_subscription": false,
+  "reset_at": "2026-11-20T06:16:00+08:00",
+  "reset_text": "11月20日 周五 06:16",
+  "reset_in_days": 4.19,
+  "bonus_used_pct": 0.0,
+  "bonus_tokens_left_b": 4.9,
+  "updated_at": "2026-11-16T01:38:49.112202+08:00",
+  "updated_at_text": "11月16日 01:38",
+  "source": "muse-subscription-status"
+}
