@@ -5,11 +5,11 @@
   "has_subscription": false,
   "reset_at": "2026-11-27T07:33:00+08:00",
   "reset_text": "11月27日 周五 07:33",
-  "reset_in_days": 5.07,
+  "reset_in_days": 4.94,
   "bonus_used_pct": 1.0,
   "bonus_tokens_left_b": 6.9,
   "bonus_tokens_left_text": "69亿",
-  "updated_at": "2026-11-22T05:56:06.013980+08:00",
-  "updated_at_text": "11月22日 05:56",
+  "updated_at": "2026-11-22T08:56:17.324370+08:00",
+  "updated_at_text": "11月22日 08:56",
   "source": "muse-subscription-status"
 }
