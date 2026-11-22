@@ -1,0 +1,19 @@
+{
+  "load1": 1.45,
+  "load5": 0.97,
+  "load15": 0.59,
+  "cores": 4,
+  "mem_total_gb": 7.7,
+  "mem_available_gb": 0.6,
+  "mem_used_pct": 92.9,
+  "cell_rss_mb": 318,
+  "disk_total_gb": 161,
+  "disk_used_gb": 7.2,
+  "disk_free_gb": 153,
+  "disk_used_pct": 4.5,
+  "workspace_gb": 8.3,
+  "uptime_hours": 1.1,
+  "updated_at": "2026-11-22T21:18:04.828263+08:00",
+  "updated_at_text": "11月22日 21:18",
+  "source": "muse-vm-status"
+}
