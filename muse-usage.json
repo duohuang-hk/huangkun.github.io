@@ -1,15 +1,15 @@
 {
-  "remaining_pct": 90,
-  "used_pct": 10,
+  "remaining_pct": 82,
+  "used_pct": 18,
   "plan": "free",
   "has_subscription": false,
   "reset_at": "2026-12-04T07:35:00+08:00",
   "reset_text": "12月4日 周五 07:35",
-  "reset_in_days": 5.82,
+  "reset_in_days": 5.69,
   "bonus_used_pct": 1.0,
   "bonus_tokens_left_b": 29.0,
   "bonus_tokens_left_text": "290亿+",
-  "updated_at": "2026-11-28T11:56:07.820129+08:00",
-  "updated_at_text": "11月28日 11:56",
+  "updated_at": "2026-11-28T14:56:05.276887+08:00",
+  "updated_at_text": "11月28日 14:56",
   "source": "muse-subscription-status"
 }
